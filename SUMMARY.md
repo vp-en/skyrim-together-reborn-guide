@@ -1,27 +1,27 @@
 # Table of contents
 
-* [🇻🇳 🇻🇳 Introduction](README.md)
+* [🇻🇳 Introduction](README.md)
 
-## 🇨🇳 🇨🇳 Initial Setup
+## 🇨🇳 Initial Setup
 
 * [000) Prerequisites](initial-setup/000-prerequisites.md)
 * [001) Removing old setup](initial-setup/001-removing-old-setup.md)
 * [002) Installing the game](initial-setup/002-installing-the-game.md)
 * [003) Launching the game](initial-setup/003-launching-the-game.md)
 
-## 🇱🇦 🇱🇦 Installing ModOrganizer2
+## 🇱🇦 Installing ModOrganizer2
 
 * [004) Installating the mod manager](installing-modorganizer2/004-installating-the-mod-manager.md)
 * [005) Initial MO2 setup](installing-modorganizer2/005-initial-mo2-setup.md)
 * [006) Creating a MO2 profile](installing-modorganizer2/006-creating-a-mo2-profile.md)
 
-## 🇦🇴 🇦🇴 Utilities
+## 🇦🇴 Utilities
 
 * [007) Creating a separator in MO2](utilities/007-creating-a-separator-in-mo2.md)
 * [008) Skyrim Script Extender (SKSE)](utilities/008-skyrim-script-extender-skse.md)
 * [009) Address Library for SKSE](utilities/009-address-library-for-skse.md)
 
-## 🇲🇿 🇲🇿 Skyrim Together Reborn
+## 🇲🇿 Skyrim Together Reborn
 
 * [010) Downloading Skyrim Together Reborn](skyrim-together-reborn/010-downloading-skyrim-together-reborn.md)
 * [011) Installing Skyrim Together Reborn](skyrim-together-reborn/011-installing-skyrim-together-reborn.md)
@@ -29,7 +29,7 @@
 * [013) Making a custom launch option in MO2](skyrim-together-reborn/013-making-a-custom-launch-option-in-mo2.md)
 * [014) Launching SkyrimTogether through MO2](skyrim-together-reborn/014-launching-skyrimtogether-through-mo2.md)
 
-## 🇳🇵 🇳🇵 Playing Skyrim Together Reborn
+## 🇳🇵 Playing Skyrim Together Reborn
 
 * [015) Before we begin](playing-skyrim-together-reborn/015-before-we-begin.md)
 * [016) First time launch](playing-skyrim-together-reborn/016-first-time-launch.md)
@@ -48,7 +48,7 @@
 * [209) Naked NPCs / players](common-issues-+-fixes/209-naked-npcs-players.md)
 * [210) Disabling the Anniversary Editions Creation Club content](common-issues-+-fixes/210-disabling-the-anniversary-editions-creation-club-content.md)
 
-## 🇨🇺 🇨🇺 Optional Mods/Tweaks
+## 🇨🇺 Optional Mods/Tweaks
 
 * [301) Heads up!](optional-mods-tweaks/301-heads-up.md)
 * [302) BethINI tweaks](optional-mods-tweaks/302-bethini-tweaks.md)
