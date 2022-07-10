@@ -18,4 +18,4 @@ But if you want to add more separators (to sort other mods), you can do so yours
 
 ![Now we have a nice separator!](https://shx.is/5BiRamd9b.gif)
 
-#### Onwards to the next step!
+### Onwards to the next step!

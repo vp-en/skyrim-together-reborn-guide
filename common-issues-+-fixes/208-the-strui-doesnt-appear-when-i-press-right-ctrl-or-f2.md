@@ -11,4 +11,4 @@
 
 **A:** Try restarting your PC. That has worked for some.
 
-\
+**A:** I had the issue myself. The only thing I could do to solve it was do a complete reinstall. Deleting the Skyrim root folder, the `C:\Modding` folder and the `My Games\Skyrim Special Edition` folder - and doing the entire guide again.
