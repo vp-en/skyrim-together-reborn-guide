@@ -26,7 +26,7 @@ It's looking for the `Address Library for SKSE` mod, but that will only be loade
 
 ### Oh shit! I selected the wrong `.exe` file, what do I do??
 
-You have two options
+You have three options
 
 #### Option 1
 
@@ -39,5 +39,16 @@ You have two options
 1. Head to the Skyrim Together Reborn mod folder location:\
    `C:\Modding\MO2\mods\Skyrim Together Reborn\SkyrimTogetherReborn`
 2. Hold down your `Spacebar` and then double click the `SkyrimTogether.exe`. It shoud allow you to choose another executable.
+
+#### Option 3
+
+1. Press `Windows Key + R` to open the `Run` menu
+2. Type `regedit` to open the Registry Editor.
+3. Select the folder `HKEY_CURRENT_USER`
+4. Select the folder `Software`
+5. Delete the folder called `TiltedPhoques`
+6. This will remove the default preference of the `SkyrimTogether.exe`, and it will ask you again upon reopening the `SkyrimTogether.exe`.
+
+
 
 ### Onwards to the next step!
