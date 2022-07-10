@@ -4,7 +4,7 @@ description: >-
   experience.
 ---
 
-# 007) Disabling the Anniversary Editions Creation Club content
+# 210) Disabling the Anniversary Editions Creation Club content
 
 ### Disabling the SkyrimSE Anniversary Editions included Creation Club content
 
