@@ -17,23 +17,23 @@
 
 ## 🇦🇴 Utilities
 
-* [008) Creating a separator in MO2](utilities/008-creating-a-separator-in-mo2.md)
-* [009) Skyrim Script Extender (SKSE)](utilities/009-skyrim-script-extender-skse.md)
-* [010) Address Library for SKSE](utilities/010-address-library-for-skse.md)
+* [007) Creating a separator in MO2](utilities/008-creating-a-separator-in-mo2.md)
+* [008) Skyrim Script Extender (SKSE)](utilities/009-skyrim-script-extender-skse.md)
+* [009) Address Library for SKSE](utilities/010-address-library-for-skse.md)
 
 ## 🇲🇿 Skyrim Together Reborn
 
-* [011) Downloading Skyrim Together Reborn](skyrim-together-reborn/011-downloading-skyrim-together-reborn.md)
-* [012) Installing Skyrim Together Reborn](skyrim-together-reborn/012-installing-skyrim-together-reborn.md)
-* [013) Locating Skyrim Together Reborn through MO2](skyrim-together-reborn/013-locating-skyrim-together-reborn-through-mo2.md)
-* [014) Making a custom launch option in MO2](skyrim-together-reborn/014-making-a-custom-launch-option-in-mo2.md)
-* [015) Launching SkyrimTogether through MO2](skyrim-together-reborn/015-launching-skyrimtogether-through-mo2.md)
+* [010) Downloading Skyrim Together Reborn](skyrim-together-reborn/011-downloading-skyrim-together-reborn.md)
+* [011) Installing Skyrim Together Reborn](skyrim-together-reborn/012-installing-skyrim-together-reborn.md)
+* [012) Locating Skyrim Together Reborn through MO2](skyrim-together-reborn/013-locating-skyrim-together-reborn-through-mo2.md)
+* [013) Making a custom launch option in MO2](skyrim-together-reborn/014-making-a-custom-launch-option-in-mo2.md)
+* [014) Launching SkyrimTogether through MO2](skyrim-together-reborn/015-launching-skyrimtogether-through-mo2.md)
 
 ## 🇳🇵 Playing Skyrim Together Reborn
 
-* [016) Before we begin](playing-skyrim-together-reborn/016-before-we-begin.md)
-* [017) First time launch](playing-skyrim-together-reborn/017-first-time-launch.md)
-* [018) Connecting to a server](playing-skyrim-together-reborn/017-connecting-to-a-server.md)
+* [015) Before we begin](playing-skyrim-together-reborn/015-before-we-begin.md)
+* [016) First time launch](playing-skyrim-together-reborn/016-first-time-launch.md)
+* [017) Connecting to a server](playing-skyrim-together-reborn/017-connecting-to-a-server.md)
 
 ## 🌍 Common issues + fixes
 
@@ -46,7 +46,7 @@
 * [207) Hostile NPCs only target my friends, not me](common-issues-+-fixes/207-hostile-npcs-only-target-my-friends-not-me.md)
 * [208) The STRUI doesn't appear when I press RIGHT CTRL or F2](common-issues-+-fixes/208-the-strui-doesnt-appear-when-i-press-right-ctrl-or-f2.md)
 * [209) Naked NPCs / players](common-issues-+-fixes/209-naked-npcs-players.md)
-* [210) Disabling the Anniversary Editions Creation Club content](installing-modorganizer2/007-disabling-the-anniversary-editions-creation-club-content.md)
+* [210) Disabling the Anniversary Editions Creation Club content](installing-modorganizer2/210-disabling-the-anniversary-editions-creation-club-content.md)
 
 ## 🇨🇺 Optional Mods/Tweaks
 
