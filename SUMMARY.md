@@ -14,7 +14,6 @@
 * [004) Installating the mod manager](installing-modorganizer2/004-installating-the-mod-manager.md)
 * [005) Initial MO2 setup](installing-modorganizer2/005-initial-mo2-setup.md)
 * [006) Creating a MO2 profile](installing-modorganizer2/006-creating-a-mo2-profile.md)
-* [007) Disabling the Anniversary Editions Creation Club content](installing-modorganizer2/007-disabling-the-anniversary-editions-creation-club-content.md)
 
 ## 🇦🇴 Utilities
 
@@ -47,6 +46,7 @@
 * [207) Hostile NPCs only target my friends, not me](common-issues-+-fixes/207-hostile-npcs-only-target-my-friends-not-me.md)
 * [208) The STRUI doesn't appear when I press RIGHT CTRL or F2](common-issues-+-fixes/208-the-strui-doesnt-appear-when-i-press-right-ctrl-or-f2.md)
 * [209) Naked NPCs / players](common-issues-+-fixes/209-naked-npcs-players.md)
+* [210) Disabling the Anniversary Editions Creation Club content](installing-modorganizer2/007-disabling-the-anniversary-editions-creation-club-content.md)
 
 ## 🇨🇺 Optional Mods/Tweaks
 
