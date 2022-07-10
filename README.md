@@ -18,13 +18,12 @@ Whenever the guide refers to "SkyrimSE", it's just short for Skyrim Special Edit
 
 This guide will probably not be perfect, especially since English is not my first language, and also because I'm forgetful and will probably miss something important.
 
-
-
 **Other notes:**
 
 * I use Windows 11. The UI in the screenshots will reflect that.
 * I use ModOrganizer2 (MO2) instead of Vortex. I can't deal with the UI of Vortex.
-* I will explain how to setup Skyrim Together Reborn as the one who wants to **join a server**, not **host a server**.&#x20;
+* I will explain how to setup Skyrim Together Reborn as the one who wants to **join a server**, not **host a server**.
+* If you need hosting of a server, consider using the free "Skyrim Togehter Reborn" hosting service [PlayTogether](https://playtogether.gg/) by Discord user LordKanelsnegle.
 * I will **not** cover how to do server setup(s) for now
 * I will **not ever** cover how to do port-forwarding. There are much better resources out there for you to figure that out.
 
@@ -35,6 +34,3 @@ This guide will probably not be perfect, especially since English is not my firs
 
 \
 Good luck!
-
-
-
