@@ -35,6 +35,31 @@
 * [016) First time launch](playing-skyrim-together-reborn/016-first-time-launch.md)
 * [017) Connecting to a server](playing-skyrim-together-reborn/017-connecting-to-a-server.md)
 
+## 🇳🇮 Server Setup
+
+* [100) Server Setup ReadMe](server-setup/100-server-setup-readme.md)
+* [101) Terminology](server-setup/101-terminology.md)
+* [102) Overview](server-setup/102-overview.md)
+* [103) Windows based setup](server-setup/103-windows-based-setup/README.md)
+  * [103a) Regular setup](server-setup/103-windows-based-setup/103a-regular-setup/README.md)
+    * [103ab) Locating the STServer.ini](server-setup/103-windows-based-setup/103a-regular-setup/103ab-locating-the-stserver.ini.md)
+    * [103ac) Editing STServer.ini](server-setup/103-windows-based-setup/103a-regular-setup/103ac-editing-stserver.ini.md)
+    * [103ad) Explaining bEnableModcheck](server-setup/103-windows-based-setup/103a-regular-setup/103ad-explaining-benablemodcheck.md)
+    * [103ae) Locating IP addresses](server-setup/103-windows-based-setup/103a-regular-setup/103ae-locating-ip-addresses.md)
+    * [103af) Port forwarding](server-setup/103-windows-based-setup/103a-regular-setup/103af-port-forwarding.md)
+    * [103ag) Launching your server](server-setup/103-windows-based-setup/103a-regular-setup/103ag-launching-your-server.md)
+  * [103b) ZeroTier setup](server-setup/103-windows-based-setup/103b-zerotier-setup/README.md)
+    * [103ba) Locating the STServer.ini](server-setup/103-windows-based-setup/103b-zerotier-setup/103ba-locating-the-stserver.ini.md)
+    * [103bc) Editing STServer.ini](server-setup/103-windows-based-setup/103b-zerotier-setup/103bc-editing-stserver.ini.md)
+    * [103bd) Explaining bEnableModcheck](server-setup/103-windows-based-setup/103b-zerotier-setup/103bd-explaining-benablemodcheck.md)
+    * [103be) Initial ZeroTier setup](server-setup/103-windows-based-setup/103b-zerotier-setup/103be-initial-zerotier-setup.md)
+    * [103bf) Configuring ZeroTier network](server-setup/103-windows-based-setup/103b-zerotier-setup/103bf-configuring-zerotier-network.md)
+    * [103bg) Authorizing users in ZeroTier network](server-setup/103-windows-based-setup/103b-zerotier-setup/103bg-authorizing-users-in-zerotier-network.md)
+    * [103bh) Connecting to your server](server-setup/103-windows-based-setup/103b-zerotier-setup/103bh-connecting-to-your-server.md)
+* [104) Linux based setup](server-setup/104-linux-based-setup/README.md)
+  * [104a) Docker setup](server-setup/104-linux-based-setup/104a-docker-setup.md)
+  * [104b) Port forwarding](server-setup/104-linux-based-setup/104b-port-forwarding.md)
+
 ## 🌍 Common issues + fixes
 
 * [201) Helpful Links](common-issues-+-fixes/201-helpful-links.md)
