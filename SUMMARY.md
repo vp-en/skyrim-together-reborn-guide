@@ -67,7 +67,7 @@
 * [203) Address Library errors](common-issues-+-fixes/203-address-library-errors.md)
 * [204) My game runs with very low FPS](common-issues-+-fixes/204-my-game-runs-with-very-low-fps.md)
 * [205) Closing the SkyrimTogether UI (STRUI) makes it reopen](common-issues-+-fixes/205-closing-the-skyrimtogether-ui-strui-makes-it-reopen.md)
-* [206) I crash whenever I try and join a server](common-issues-+-fixes/206-i-crash-whenever-i-try-and-join-a-server.md)
+* [206) My game crashes when I open it, or connect to a server](common-issues-+-fixes/206-i-crash-whenever-i-try-and-join-a-server.md)
 * [207) Hostile NPCs only target my friends, not me](common-issues-+-fixes/207-hostile-npcs-only-target-my-friends-not-me.md)
 * [208) The STRUI doesn't appear when I press RIGHT CTRL or F2](common-issues-+-fixes/208-the-strui-doesnt-appear-when-i-press-right-ctrl-or-f2.md)
 * [209) Naked NPCs / players](common-issues-+-fixes/209-naked-npcs-players.md)
